@@ -14,8 +14,7 @@
 
 Welcome to my Data Dashboard Repository! 📊 Interactive data dashboards in Tableau, Power BI &amp; more. Explore insights in revenue, trends, and more. Let's connect &amp; dive into data! 📊
 
-
-## Preview
+<h3 align="center">Preview</h3>
 
 ![Finance Report Dashboard - Light](https://raw.githubusercontent.com/Aniket182001/Finance-Report-Dashboard-with-Tableau/Finance-Dashboard/Finance%20Report%20-%20light.png)
 
